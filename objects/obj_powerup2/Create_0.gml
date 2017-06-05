@@ -1,0 +1,1 @@
+gforce3 = 2; //Set initial gforce3.  How fast we go down screen.
