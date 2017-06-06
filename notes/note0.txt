@@ -1,0 +1,12 @@
+To-Do List
+These are not in order of timeline to be completed they are in the order I can remember
+1-Soundtrack of my own recording
+2-Make Player Explode instead of restarting (see daddies game)
+3-Add costumes make them unlockable have a menu inbetween levels
+4-This kind of goes with 3 add achievments
+5-Saveable progress
+6-Multiple Levels
+7-Save to Github often
+8-Rework some models
+9-Polish Game
+10-Complete and sell
