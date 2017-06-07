@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "4875a957-2501-416f-bf62-a5724fca894a",
+            "Value": {
+                "id": "6358bebe-8a25-42cf-a111-551b9b610730",
+                "resourcePath": "objects\\obj_standardcostume\\obj_standardcostume.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "48a584f9-64a3-4ea5-bf53-6449d6bca633",
             "Value": {
                 "id": "de8baeff-1aa1-4554-8f3d-bc8157561b46",
@@ -180,6 +188,14 @@
                 "id": "48ee9481-36c9-48ad-9f65-f95f468ca466",
                 "resourcePath": "sprites\/spr_WhoIsItFor\/spr_WhoIsItFor.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "54e315bb-8b87-4f87-978e-463b29b1ae07",
+            "Value": {
+                "id": "6d33130c-7263-4dba-a506-34bd0b55b833",
+                "resourcePath": "rooms\\rm_costumes\\rm_costumes.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -460,6 +476,14 @@
                 "id": "078e4004-109f-4e60-9004-93ff6595e81e",
                 "resourcePath": "views\/c9dcb828-dc9c-445e-a572-dda08499ef0f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cbb69c85-647b-4267-a0d5-d7ee42952639",
+            "Value": {
+                "id": "d272ac31-b225-43de-9ec5-87b9d858be9c",
+                "resourcePath": "sprites\\spr_standardcostume\\spr_standardcostume.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
